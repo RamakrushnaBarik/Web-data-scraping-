@@ -20,4 +20,4 @@ Download and installation of software process
 
 collect data from your favorite website
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-in the code file you can change your url link . I do with "TATA IPL AUCTION 2024" . I collect- total player buy , remaining money left etc .
+in the code file you can change your url link . I do with "TATA IPL AUCTION 2024" . data collect like- total player buy , remaining money left etc .
